@@ -8,6 +8,9 @@ web/dist/
 web/dist-deploy/
 web/tsconfig.tsbuildinfo
 
+# design docs (local only)
+docs/
+
 # OS / editor
 .DS_Store
 Thumbs.db
