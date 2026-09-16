@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import 'tailwindcss';
+
+/* 数据科学主题：纸白底 / 墨蓝字 / 图表蓝主色 / Okabe-Ito 色盲安全强调 */
+@theme {
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-sans: 'Inter', sans-serif;
+  --font-serif: 'DM Serif Display', serif;
+
+  --color-bg: #f6f5f1;
+  --color-surface: #fcfcfa;
+  --color-surface2: #edecdf;
+  --color-border: #ddddda;
+  --color-border2: #c4c4bd;
+  --color-cyan: #2563a8;
+  --color-cyan-dim: #2563a833;
+  --color-amber: #d2622a;
+  --color-amber-dim: #d2622a22;
+  --color-green: #2c8a72;
+  --color-green-dim: #2c8a7222;
+  --color-red: #b53232;
+  --color-muted: #8a8a82;
+  --color-muted2: #63635c;
+  --color-text: #23272e;
+  --color-text2: #464b54;
+}
+
+html,
+body,
+#app {
+  height: 100%;
+  background: #f6f5f1;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #ddddda transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #ddddda;
+  border-radius: 2px;
+}

@@ -1,0 +1,40 @@
+{
+  "stats": {
+    "primary": {
+      "totalPapers": 53401,
+      "totalDisclosed": 4235,
+      "disclosedPct": 7.93,
+      "monthlyGrowth": 9.77,
+      "uniqueTools": 11
+    },
+    "any": {
+      "totalPapers": 63849,
+      "totalDisclosed": 5559,
+      "disclosedPct": 8.71,
+      "monthlyGrowth": 9.76,
+      "uniqueTools": 11
+    }
+  },
+  "dateRange": [
+    "2025-08",
+    "2026-08"
+  ],
+  "lastUpdated": "2026-09-15",
+  "methodology": [
+    {
+      "step": "01",
+      "title": "Data Collection",
+      "body": "Papers harvested from arXiv math.* categories and parsed to full text (MinerU). Current snapshot covers the collection window; disclosed papers are identified in a one-pass offline scan."
+    },
+    {
+      "step": "02",
+      "title": "Keyword Detection",
+      "body": "Sentence-level regex matching for 30+ AI tool names and generic AI phrases over the parsed full text. A paper counts as disclosed when at least one sentence matches; evidence sentences are kept verbatim."
+    },
+    {
+      "step": "03",
+      "title": "Classification",
+      "body": "Matched sentences are scanned again for specific tool names (ChatGPT, Copilot, Claude, Gemini, …); papers without a specific mention fall back to generic AI. Planned: automated daily updates and monthly recomputation of the historical series (not yet implemented)."
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "primary": [
+    {
+      "code": "math.CO",
+      "name": "Combinatorics",
+      "total": 6026,
+      "disclosed": 872,
+      "pct": 14.47
+    },
+    {
+      "code": "math.ST",
+      "name": "Statistics Theory",
+      "total": 1485,
+      "disclosed": 141,
+      "pct": 9.49
+    },
+    {
+      "code": "math.NT",
+      "name": "Number Theory",
+      "total": 3405,
+      "disclosed": 302,
+      "pct": 8.87
+    },
+    {
+      "code": "math.OC",
+      "name": "Optimization and Control",
+      "total": 4936,
+      "disclosed": 422,
+      "pct": 8.55
+    },
+    {
+      "code": "math.FA",
+      "name": "Functional Analysis",
+      "total": 1866,
+      "disclosed": 153,
+      "pct": 8.2
+    },
+    {
+      "code": "math.PR",
+      "name": "Probability",
+      "total": 3409,
+      "disclosed": 270,
+      "pct": 7.92
+    },
+    {
+      "code": "math.AG",
+      "name": "Algebraic Geometry",
+      "total": 2987,
+      "disclosed": 212,
+      "pct": 7.1
+    },
+    {
+      "code": "math.NA",
+      "name": "Numerical Analysis",
+      "total": 4242,
+      "disclosed": 272,
+      "pct": 6.41
+    },
+    {
+      "code": "math.DG",
+      "name": "Differential Geometry",
+      "total": 2466,
+      "disclosed": 151,
+      "pct": 6.12
+    },
+    {
+      "code": "math.DS",
+      "name": "Dynamical Systems",
+      "total": 2219,
+      "disclosed": 109,
+      "pct": 4.91
+    },
+    {
+      "code": "math-ph",
+      "name": "Mathematical Physics",
+      "total": 1631,
+      "disclosed": 80,
+      "pct": 4.9
+    },
+    {
+      "code": "math.AP",
+      "name": "Analysis of PDEs",
+      "total": 5855,
+      "disclosed": 234,
+      "pct": 4.0
+    }
+  ],
+  "any": [
+    {
+      "code": "math.CO",
+      "name": "Combinatorics",
+      "total": 8468,
+      "disclosed": 1210,
+      "pct": 14.29
+    },
+    {
+      "code": "math.OC",
+      "name": "Optimization and Control",
+      "total": 7858,
+      "disclosed": 888,
+      "pct": 11.3
+    },
+    {
+      "code": "math.ST",
+      "name": "Statistics Theory",
+      "total": 3126,
+      "disclosed": 341,
+      "pct": 10.91
+    },
+    {
+      "code": "math.NT",
+      "name": "Number Theory",
+      "total": 4546,
+      "disclosed": 453,
+      "pct": 9.96
+    },
+    {
+      "code": "math.FA",
+      "name": "Functional Analysis",
+      "total": 3123,
+      "disclosed": 288,
+      "pct": 9.22
+    },
+    {
+      "code": "math.PR",
+      "name": "Probability",
+      "total": 5979,
+      "disclosed": 548,
+      "pct": 9.17
+    },
+    {
+      "code": "math.NA",
+      "name": "Numerical Analysis",
+      "total": 5985,
+      "disclosed": 475,
+      "pct": 7.94
+    },
+    {
+      "code": "math.AG",
+      "name": "Algebraic Geometry",
+      "total": 4401,
+      "disclosed": 333,
+      "pct": 7.57
+    },
+    {
+      "code": "math.DS",
+      "name": "Dynamical Systems",
+      "total": 3957,
+      "disclosed": 265,
+      "pct": 6.7
+    },
+    {
+      "code": "math.DG",
+      "name": "Differential Geometry",
+      "total": 3644,
+      "disclosed": 236,
+      "pct": 6.48
+    },
+    {
+      "code": "math-ph",
+      "name": "Mathematical Physics",
+      "total": 6348,
+      "disclosed": 396,
+      "pct": 6.24
+    },
+    {
+      "code": "math.AP",
+      "name": "Analysis of PDEs",
+      "total": 7437,
+      "disclosed": 344,
+      "pct": 4.63
+    }
+  ]
+}

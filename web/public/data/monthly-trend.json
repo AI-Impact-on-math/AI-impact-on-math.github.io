@@ -1,0 +1,164 @@
+{
+  "monthlyTrend": {
+    "primary": [
+      {
+        "month": "2025-08",
+        "total": 199,
+        "disclosed": 4,
+        "pct": 2.01
+      },
+      {
+        "month": "2025-09",
+        "total": 3969,
+        "disclosed": 101,
+        "pct": 2.54
+      },
+      {
+        "month": "2025-10",
+        "total": 4180,
+        "disclosed": 86,
+        "pct": 2.06
+      },
+      {
+        "month": "2025-11",
+        "total": 3864,
+        "disclosed": 97,
+        "pct": 2.51
+      },
+      {
+        "month": "2025-12",
+        "total": 3961,
+        "disclosed": 113,
+        "pct": 2.85
+      },
+      {
+        "month": "2026-01",
+        "total": 3775,
+        "disclosed": 106,
+        "pct": 2.81
+      },
+      {
+        "month": "2026-02",
+        "total": 3653,
+        "disclosed": 127,
+        "pct": 3.48
+      },
+      {
+        "month": "2026-03",
+        "total": 4478,
+        "disclosed": 206,
+        "pct": 4.6
+      },
+      {
+        "month": "2026-04",
+        "total": 4256,
+        "disclosed": 218,
+        "pct": 5.12
+      },
+      {
+        "month": "2026-05",
+        "total": 4660,
+        "disclosed": 350,
+        "pct": 7.51
+      },
+      {
+        "month": "2026-06",
+        "total": 4956,
+        "disclosed": 460,
+        "pct": 9.28
+      },
+      {
+        "month": "2026-07",
+        "total": 5413,
+        "disclosed": 840,
+        "pct": 15.52
+      },
+      {
+        "month": "2026-08",
+        "total": 6037,
+        "disclosed": 1527,
+        "pct": 25.29
+      }
+    ],
+    "any": [
+      {
+        "month": "2025-08",
+        "total": 244,
+        "disclosed": 8,
+        "pct": 3.28
+      },
+      {
+        "month": "2025-09",
+        "total": 4732,
+        "disclosed": 163,
+        "pct": 3.44
+      },
+      {
+        "month": "2025-10",
+        "total": 5071,
+        "disclosed": 173,
+        "pct": 3.41
+      },
+      {
+        "month": "2025-11",
+        "total": 4591,
+        "disclosed": 148,
+        "pct": 3.22
+      },
+      {
+        "month": "2025-12",
+        "total": 4776,
+        "disclosed": 169,
+        "pct": 3.54
+      },
+      {
+        "month": "2026-01",
+        "total": 4437,
+        "disclosed": 164,
+        "pct": 3.7
+      },
+      {
+        "month": "2026-02",
+        "total": 4415,
+        "disclosed": 219,
+        "pct": 4.96
+      },
+      {
+        "month": "2026-03",
+        "total": 5384,
+        "disclosed": 296,
+        "pct": 5.5
+      },
+      {
+        "month": "2026-04",
+        "total": 5111,
+        "disclosed": 309,
+        "pct": 6.05
+      },
+      {
+        "month": "2026-05",
+        "total": 5735,
+        "disclosed": 513,
+        "pct": 8.95
+      },
+      {
+        "month": "2026-06",
+        "total": 5938,
+        "disclosed": 614,
+        "pct": 10.34
+      },
+      {
+        "month": "2026-07",
+        "total": 6415,
+        "disclosed": 1004,
+        "pct": 15.65
+      },
+      {
+        "month": "2026-08",
+        "total": 7000,
+        "disclosed": 1779,
+        "pct": 25.41
+      }
+    ]
+  }
+}

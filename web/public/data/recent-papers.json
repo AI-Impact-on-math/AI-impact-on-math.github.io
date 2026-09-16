@@ -1,0 +1,320 @@
+{
+  "recentPapers": [
+    {
+      "id": "2609.02939",
+      "title": "Structural rigidity in the Erdős-Graham two-set permutation problem",
+      "authors": [
+        "William Kasel"
+      ],
+      "subfield": "math.CO",
+      "mathCats": [
+        "math.CO"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Claude"
+      ],
+      "context": "body",
+      "excerpt": "The language model Claude (Anthropic) was used for proof auditing, code assistance, and editorial revision."
+    },
+    {
+      "id": "2609.01664",
+      "title": "Folded-Algebraic Matroids: Characteristic Rigidity and Almost-Entropic Separation",
+      "authors": [
+        "Shahram Khazaei"
+      ],
+      "subfield": "math.CO",
+      "mathCats": [
+        "math.CO"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "During the preparation of this work, the author used ChatGPT (OpenAI) for mathematical exploration; assistance in checking arguments and developing and testing computational certificates; and drafting, restructuring, and…"
+    },
+    {
+      "id": "2609.01656",
+      "title": "A normal-inverse-Wishart (NIW) Bayesian synthesizer for multivariate normal data with application to polygenic risk scores",
+      "authors": [
+        "Rasmus Rask Kragh Jørgensen",
+        "Anne Krogh Nøhr",
+        "Jan Reiter Sørensen",
+        "Martin Bøgsted",
+        "Heidi Søgaard Christensen"
+      ],
+      "subfield": "stat.ME",
+      "mathCats": [
+        "math.PR"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "ChatGPT (OpenAI GPT 5.5) was used for language editing and text refinement during manuscript preparation."
+    },
+    {
+      "id": "2609.00481",
+      "title": "The frameset of the second-order B-Spline along $ab=1/q$",
+      "authors": [
+        "Alexander Stangl",
+        "Christina Frederick"
+      ],
+      "subfield": "math.CA",
+      "mathCats": [
+        "math.CA"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Claude"
+      ],
+      "context": "body",
+      "excerpt": "Declaration of Generative AI and AI-assisted technologies in the writing process: During the preparation of this work, the authors used Claude (Anthropic) to assist with numerical and symbolic verification of mathematica…"
+    },
+    {
+      "id": "2609.00466",
+      "title": "Shape Holomorphy and Sparse Approximation of the Maxwell Electric Field Integral Operator",
+      "authors": [
+        "Paul Escapil-Inchauspé",
+        "Carlos Jerez-Hanckes"
+      ],
+      "subfield": "math.NA",
+      "mathCats": [
+        "math.NA",
+        "math.AP"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Unspecified AI"
+      ],
+      "context": "body",
+      "excerpt": "Generative AI tools were used during manuscript preparation to assist with language editing, structural suggestions, literature cross-checking, and critical review of the mathematical exposition."
+    },
+    {
+      "id": "2609.00452",
+      "title": "Rapid decay and functional calculus in ${\\rm C}^*$-probability spaces",
+      "authors": [
+        "Felipe Flores"
+      ],
+      "subfield": "math.OA",
+      "mathCats": [
+        "math.OA",
+        "math.FA"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "GPT-5.6 Sol helped fix a mistake in an earlier version of Lemma 3.3."
+    },
+    {
+      "id": "2609.00438",
+      "title": "Single- and Multilevel Quadrature with Error Control for Fourier Pricing under the Rough Heston Model",
+      "authors": [
+        "Chiheb Ben Hammouda",
+        "Abderrahmene Ben Romdhane",
+        "Michael Samet",
+        "Raul F. Tempone"
+      ],
+      "subfield": "q-fin.CP",
+      "mathCats": [
+        "math.NA"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Unspecified AI"
+      ],
+      "context": "body",
+      "excerpt": "AI assistance was used to improve writing clarity and presentation and to help identify relevant references."
+    },
+    {
+      "id": "2609.00436",
+      "title": "A counterexample to the stable forking conjecture",
+      "authors": [
+        "James Freitag",
+        "Scott Mutchnik"
+      ],
+      "subfield": "math.LO",
+      "mathCats": [
+        "math.LO",
+        "math.QA"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "(SM additionally received a grant of access to ChatGPT Pro through OpenAI’s academic researcher support program, though the arguments in this paper were based on proofs generated using JF’s ChatGPT account.) JF was suppo…"
+    },
+    {
+      "id": "2609.00425",
+      "title": "Individual and Uniform Eventual Positivity of Self-Adjoint Semigroups",
+      "authors": [
+        "Alexander Dobrick"
+      ],
+      "subfield": "math.FA",
+      "mathCats": [
+        "math.FA",
+        "math.SP"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "During the preparation of this work, the author used an OpenCode harness, custom-written auxiliary skills and large language models from OpenAI’s GPT-5.6 family for editorial assistance and to simplify an earlier version…"
+    },
+    {
+      "id": "2609.00419",
+      "title": "Every Nonrecursive Many-One Degree Contains Either One or Infinitely Many Finite-One Degrees",
+      "authors": [
+        "Patrizio Cintioli"
+      ],
+      "subfield": "math.LO",
+      "mathCats": [
+        "math.LO"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "The main result of this paper was discovered by ChatGPT 5.6 Sol (OpenAI)."
+    },
+    {
+      "id": "2609.00415",
+      "title": "Separation for Schrödinger operators. A counterexample to Simon's conjecture",
+      "authors": [
+        "M. A. Perelmuter"
+      ],
+      "subfield": "math.AP",
+      "mathCats": [
+        "math.AP"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Unspecified AI"
+      ],
+      "context": "body",
+      "excerpt": "Acknowledgements The author acknowledges the use of AI tools."
+    },
+    {
+      "id": "2609.00401",
+      "title": "Bus Fleet Electrification Under Capital Cost and Scheduling Constraints: A Five-Agency Case Study",
+      "authors": [
+        "Hadi Bhidya",
+        "Taner Cokyasar",
+        "Omer Verbas"
+      ],
+      "subfield": "math.OC",
+      "mathCats": [
+        "math.OC"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Claude"
+      ],
+      "context": "body",
+      "excerpt": "During the preparation of this manuscript, the authors used Claude Opus 4.6 and Claude Sonnet 4.6 through the ARGO AI platform at Argonne National Laboratory to improve language, spelling, readability, literature review,…"
+    },
+    {
+      "id": "2609.00353",
+      "title": "Topologically induced deformations of differential forms",
+      "authors": [
+        "J. M. Hoff da Silva",
+        "J. M. B. Matzenbacher",
+        "R. da Rocha"
+      ],
+      "subfield": "hep-th",
+      "mathCats": [
+        "math-ph"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Gemini"
+      ],
+      "context": "body",
+      "excerpt": "During the preparation of this work, the authors used Gemini as a language reviewer."
+    },
+    {
+      "id": "2609.00347",
+      "title": "Algebra objects in direct limit completions of compact Lie group duals and the classification of $c=1$ vertex operator algebras",
+      "authors": [
+        "Sebastiano Carpi",
+        "Tiziano Gaudio",
+        "Luca Giorgetti"
+      ],
+      "subfield": "math.QA",
+      "mathCats": [
+        "math.QA",
+        "math-ph",
+        "math.RT"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Gemini"
+      ],
+      "context": "body",
+      "excerpt": "Google Gemini was used for helpful discussions and suggestions during the preparation of this manuscript."
+    },
+    {
+      "id": "2609.00336",
+      "title": "Critical points of point charge potentials along lines",
+      "authors": [
+        "Goncalo Oliveira"
+      ],
+      "subfield": "math.CA",
+      "mathCats": [
+        "math.CA",
+        "math-ph"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "ChatGPT"
+      ],
+      "context": "body",
+      "excerpt": "ChatGPT was also used to help reorganize and edit the exposition and the LATEX source."
+    },
+    {
+      "id": "2609.00327",
+      "title": "Modeling of Mobility and Energy Policies in an Agent-Based Framework: Case Studies for Chicago Region in 2050",
+      "authors": [
+        "Md Rakibul Alam",
+        "Omer Verbas",
+        "Taner Cokyasar",
+        "Hadi Bhidya",
+        "Jesse Altman",
+        "Nora Beck"
+      ],
+      "subfield": "physics.soc-ph",
+      "mathCats": [
+        "math.NA"
+      ],
+      "date": "2026-08-31",
+      "confidence": 1.0,
+      "tools": [
+        "Claude"
+      ],
+      "context": "body",
+      "excerpt": "During the preparation of this manuscript, the authors used Claude Opus 4.6 and Claude Sonnet 4.6 through ARGO AI platform at Argonne National Laboratory to improve language, spelling, readability, literature review, cod…"
+    }
+  ]
+}
